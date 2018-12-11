@@ -4,5 +4,5 @@ Here Sales Data has been taken and processed The data consists of wide variety o
 ## 1.Pre-processing  
 Here the data has been cleaned and missing values have been dealth with.  
 ## 2. Analysis  
-Here a detailed analysis on the data has been performed to see how each attribute affects the sales.  
+Here a detailed analysis on the data has been performed to see the trends in the data and to see how each attribute affects the sales.  
 
